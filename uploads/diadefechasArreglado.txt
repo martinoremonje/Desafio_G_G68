@@ -1,0 +1,1 @@
+02/05/2024 : ahpra se agrego un operador terniario a todos los dias y meses para agregarle un 0
